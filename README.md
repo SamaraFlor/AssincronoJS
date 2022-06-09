@@ -8,4 +8,4 @@ Utilize a API https://thatcopy.pw/catapi/rest para fazer as chamadas com o méto
 Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativar o evento de clique do botão!
 Demo
 
-![image](https://user-images.githubusercontent.com/65172085/172870422-fd06ffa1-56cc-427e-a625-5b45d766badb.png)
+
